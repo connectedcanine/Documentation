@@ -22,7 +22,7 @@ Connected Canine will crerate an account for your company and assign one or more
 
 ## Registration Calendar
 
-![image-20230220115603123](/Users/nikola/Library/Application Support/typora-user-images/image-20230220115603123.png)
+<img src="./image-20230220115603123.png" alt="image-20230220115603123" style="zoom:50%;" />
 
 
 
@@ -30,13 +30,13 @@ Connected Canine will crerate an account for your company and assign one or more
 
 The audit logs document all actions that affect users or system changing actions such as login/logout, and registration.
 
-![image-20230220131243913](/Users/nikola/Documents/Connected Canine/User Guide/auditlog1.png)
+<img src="./auditlog1.png" alt="image-20230220131243913" style="zoom:50%;" />
 
 ## Company
 
 Company Admins can update a number of parameters to customize the portal for their employees.
 
-![image-20230220131126389](/Users/nikola/Documents/Connected Canine/User Guide/company1.png)
+<img src="./company1.png" alt="image-20230220131126389" style="zoom:50%;" />
 
 
 
@@ -56,7 +56,7 @@ Company Admins can update a number of parameters to customize the portal for the
 
 
 
-![image-20230220131751831](/Users/nikola/Documents/Connected Canine/User Guide/vetclinics1.png)
+![image-20230220131751831](./vetclinics1.png)
 
 
 
@@ -66,7 +66,7 @@ Vet Clinics page allows you to orr update Vet Clinics that are relevant to your 
 
 
 
-![image-20230220131923735](/Users/nikola/Documents/Connected Canine/User Guide/image-20230220131923735.png)
+![image-20230220131923735](./image-20230220131923735.png)
 
 
 

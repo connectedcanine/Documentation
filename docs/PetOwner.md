@@ -32,7 +32,7 @@ Required First Name and Last Name as well as Company email (Must be your company
 
 ​	*Must contain, one uppercase, one lowercase, one number and one special case character*
 
-![image-20230220110805056](/Users/nikola/Library/Application Support/typora-user-images/image-20230220110805056.png)
+![image-20230220110805056](./image-20230220110805056.png)
 
 
 
@@ -44,13 +44,13 @@ A verification code will be sent to your email address to confirm your email add
 
 
 
-![image-20230220110840793](/Users/nikola/Library/Application Support/typora-user-images/image-20230220110840793.png)
+<img src="./docs/image-20230220110840793.png" alt="image-20230220110840793" style="zoom:50%;" />
 
 
 
 The email will look similar to the one below with a verification code coming from *registration-noreply@connectedcanine.com.*
 
-![image-20230220110547613](/Users/nikola/Library/Application Support/typora-user-images/image-20230220110547613.png)
+![image-20230220110547613](./docs/image-20230220110547613.png)
 
 ### Incorrect Code
 
@@ -58,7 +58,7 @@ If you enter an incorrect code or don't respond within 5 minutes. You may re-reg
 
 
 
-![image-20230220111159807](/Users/nikola/Library/Application Support/typora-user-images/image-20230220111159807.png)
+<img src="./docs/image-20230220111159807.png" alt="image-20230220111159807" style="zoom:50%;" />
 
 Select the timer after "Didn't receive a code?" to resend the verification code to. yourr email address.
 
@@ -72,7 +72,7 @@ Once you register, a welcome email is sent to your account.
 
 
 
-![image-20230220111404378](/Users/nikola/Library/Application Support/typora-user-images/image-20230220111404378.png)
+<img src="./docs/image-20230220111404378.png" alt="image-20230220111404378" style="zoom:50%;" />
 
 ## Login
 
@@ -82,7 +82,7 @@ If you have previously registered, then enter your company email address and pas
 
 
 
-![image-20230220100017757](/Users/nikola/Library/Application Support/typora-user-images/image-20230220100017757.png)
+<img src="./docs/image-20230220100017757.png" alt="image-20230220100017757" style="zoom:50%;" />
 
 ## 
 
@@ -92,7 +92,7 @@ Successful login brings you to the main Screen.
 
 
 
-![image-20230220113956031](/Users/nikola/Documents/Connected Canine/User Guide/image-20230220113956031.png)
+![image-20230220113956031](./image-20230220113956031.png)
 
 
 
