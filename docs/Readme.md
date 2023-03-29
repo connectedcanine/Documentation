@@ -8,9 +8,21 @@ There are Three Active Roles - Company Administrator, Pet Owner, and Pet Evaluat
 
 
 
-| [Property Manager](propertymanager.md) - Utilization Reports | [Company Administrator](companyadmin.md) - Administer Pet Owners and Pets |
+## [Self Registration](./Registration.md)
+
+
+
+[Users can self-register an account](./Registration.md). Ensure you use your company email address as the Connected Canine account is linked to your company email.
+
+
+
+## Documentation
+
+
+
+| [**Pet Owner**](PetOwner.md) - Register Pets and Reserve Days | [Company Administrator](companyadmin.md) - Administer Pet Owners and Pets |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              | ![image-20230220094917877](./image-20230220094917877.png) |
-| [**Pet Owner**](PetOwner.md) - Register Pets and Reserve Days | [**Pet Evaluator**](petevaluator.md) -                       |
-| <img src="./image-20230220075759624.png" alt="image-20230220075759624" style="zoom:75%;" /> | ![image-20230220095126788](./image-20230220095126788.png) |
+| <img src="./image-20230220075759624.png" alt="image-20230220075759624" style="zoom:75%;" /> | ![image-20230220094917877](./image-20230220094917877.png)    |
+| [Property Manager](propertymanager.md) - Property Management | [**Pet Evaluator**](petevaluator.md) -                       |
+|                                                              | ![image-20230220095126788](./image-20230220095126788.png)    |
 
